@@ -2,4 +2,4 @@ IPv6.txt
 問
 （1) インターフェース：A8AAAAFFFEAAAAAA
  (2) インターフェース：9586FFFE543210FE
- (3) インターフェース：E13FFFFFFFEFFFFFF
+ (3) インターフェース：FDFFFFFFFEFFFFFF
